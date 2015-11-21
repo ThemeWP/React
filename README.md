@@ -2,4 +2,4 @@
 
 - npm install
 - npm run build
-- npm dev
+- npm run dev
